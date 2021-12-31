@@ -1,29 +1,22 @@
 {
   "users": [
     {
-      "name": "Rebeca",
-      "lastName": "Rivas",
-      "phone": 123456,
+      "name": "gabriela",
+      "email": "Silva",
+      "password": 1238698,
       "id": 1
     },
     {
-      "name": "Andressa",
-      "lastName": "Rivas",
-      "phone": 1234598,
+      "name": "maria",
+      "email": "Silva",
+      "password": 1238698,
       "id": 2
     },
     {
-      "name": "Laura",
-      "lastName": "Rivas",
-      "phone": 1234234,
+      "name": "joao",
+      "email": "Silva",
+      "password": 1238698,
       "id": 3
-    },
-    {
-      "name": "Marcio",
-      "lastName": "Silva",
-      "phone": 1235674,
-      "id": 4
     }
-  ],
-  "products": []
+  ]
 }
